@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M3eFovrEKcGascFnFsgbAnK+qj6dTe/RzwJyy6fBX8e5NMRX7juSN336O2HeCsxIZxzKktlBMxMb78eAJEtXwA==",
+  "success": true,
+  "projectFilePath": "D:\\CIS_ESPORT-main\\CISESPORT\\CISESPORT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
